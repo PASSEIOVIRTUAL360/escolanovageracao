@@ -1,0 +1,162 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_A0BE1173_9ECE_8DC2_41B8_9498F9BFFD6A.source = https://www.instagram.com/gmais360tour/
+LinkBehaviour_B52B374C_9F4A_95C5_41D7_D7F1F7398587.source = https://www.instagram.com/gmais360tour/
+LinkBehaviour_B5A6621C_9F49_8F45_41C1_FE8A75A89949.source = https://www.instagram.com/gmais360tour/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_30EF9D7D_3F1C_4A6C_41CE_3E175044254C.text = BIBLIOTECA ENSINO FUNDAMENTAL \
+ oferece às crianças uma oportunidade única de explorar o mundo da leitura de forma regular e prazerosa. Ao visitarem a biblioteca semanalmente, as crianças têm a chance de se envolverem com diferentes livros e histórias, seja de forma individual ou em grupos. Esse contato frequente com a leitura contribui para o desenvolvimento da linguagem, da imaginação e do gosto pela leitura desde cedo. O fato de também poderem emprestar livros para lerem em casa é um incentivo adicional para a prática da leitura fora do ambiente escolar. Essa prática possibilita que a leitura se estenda para além das salas de aula, transformando-se em um hábito saudável e enriquecedor para as crianças.
+HotspotPanoramaOverlayTextImage_AAE2C8BB_3D7A_14D2_41BB_319A39A7A8E1.text = BIBLIOTECA:  \
+oferece às crianças uma oportunidade única de explorar o mundo da leitura de forma regular e prazerosa. Ao visitarem a biblioteca semanalmente, as crianças têm a chance de se envolverem com diferentes livros e histórias, seja de forma individual ou em grupos. Esse contato frequente com a leitura contribui para o desenvolvimento da linguagem, da imaginação e do gosto pela leitura desde cedo. O fato de também poderem emprestar livros para lerem em casa é um incentivo adicional para a prática da leitura fora do ambiente escolar. Essa prática possibilita que a leitura se estenda para além das salas de aula, transformando-se em um hábito saudável e enriquecedor para as crianças.
+HotspotPanoramaOverlayTextImage_2E258E9A_3F14_46B4_41A9_BB86AD96EFB4.text = CINEMA:  \
+utilizamos o minicinema de forma estratégica, como suporte audiovisual em projetos específicos. Essa abordagem mostra um olhar cuidadoso para as necessidades e interesses das crianças, garantindo que a tecnologia seja utilizada de maneira consciente e significativa. Ao optarmos por não utilizar a televisão como passatempo, reforçamos o compromisso em promover um ambiente educacional que valoriza o desenvolvimento integral das crianças. \
+ \
+
+HotspotPanoramaOverlayTextImage_2C52BAEE_3F2C_CE6D_41C0_8A620CB62464.text = MINICIDADE: \
+ Esse espaço proporciona às crianças uma experiência valiosa ao aprenderem sobre normas de trânsito e princípios de cidadania de uma forma lúdica e envolvente. Permitir que as crianças da Educação infantil transitem com suas bicicletas e motocas na minicidade favorece o desenvolvimento físico e motor, além de promover a independência e a autonomia ao se locomoverem de forma segura dentro desse ambiente planejado. A minicidade oferece uma oportunidade única para as crianças vivenciarem diferentes papéis sociais ao assumirem personagens em suas brincadeiras
+HotspotPanoramaOverlayTextImage_2A226CBE_3F37_CAEC_41B3_9018262EBF6B.text = MINIFAZENDA: \
+ A experiência de conviver com outros seres vivos, especialmente os animais, é saudável e fundamental para o desenvolvimento das crianças. Essa interação proporciona benefícios emocionais, educacionais e terapêuticos que contribuem para o crescimento integral dos alunos. Além disso, estar próximo a animais possibilita que as crianças ampliem seus conhecimentos sobre o mundo natural. Observar o comportamento dos animais, aprender sobre suas características e necessidades, e até mesmo cuidar deles são experiências educacionais valiosas.
+HotspotPanoramaOverlayTextImage_B0F90E1C_3D76_2FD7_41B4_1FB15722055B.text = PARQUE DA FRENTE:  \
+A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
+HotspotPanoramaOverlayTextImage_B68A01DE_3D6A_1453_41C6_4A48DD13AE0E.text = PARQUE DA FRENTE:  \
+A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
+HotspotPanoramaOverlayTextImage_2D485780_3F14_4695_41C8_4536FFA1B279.text = QUADRAS DE ESPORTES:  \
+Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.  \
+ \
+
+HotspotPanoramaOverlayTextImage_B74EFF65_3C96_2C71_41B6_1DE8F602AC6E.text = RECEPÇÃO CARLOS RAZERA:  \
+A recepção é um lugar especial em nossa instituição, onde recebemos com carinho e atenção todas as crianças matriculadas no período integral e também aquelas que frequentam a Educação Infantil à tarde. Nossa equipe está sempre pronta para acolher os pequenos, proporcionando um ambiente acolhedor e seguro desde o início do dia. O momento da entrada é uma oportunidade para estabelecermos vínculos afetivos com cada criança, transmitindo confiança e conforto aos pais ou responsáveis.
+HotspotPanoramaOverlayTextImage_2CAB52FE_3F2C_7E6D_41B5_F706397E4AA5.text = REFEITÓRIO: \
+ É o local onde os alunos fazem suas refeições diariamente. Uma alimentação adequada é fundamental para o crescimento, desenvolvimento e bem-estar das crianças e adolescentes. Ao oferecer uma dieta equilibrada, estamos contribuindo para que nossos estudantes tenham os nutrientes necessários para se desenvolverem de maneira saudável e atingirem seu pleno potencial.
+
+## Media
+
+### Audio
+audiores_165D5F94_2B82_4E69_41C1_82319FDE158A.mp3Url = media/audio_1C738140_2B83_B2EA_41C4_B1E82DEFE354_pt.mp3
+
+### Image
+imlevel_19B8A04F_3F3C_D9AC_41CA_07FEFC62671F.url = media/panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D_HS_gw7feqw5_pt.png
+imlevel_4BD11E5E_47FB_CEE5_4199_F511471646EB.url = media/panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D_HS_i6lg52xr_pt.png
+imlevel_19031052_3F3C_59B5_41A0_7821DD1E4BDA.url = media/panorama_0BAE29F0_2A82_55AA_41B4_E4A3B936C14A_HS_lq4cp2uz_pt.png
+imlevel_5597249A_47FB_F263_4198_8D3506F198AF.url = media/panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5_HS_nvbx4tyq_pt.png
+imlevel_1CEBCBF0_3F3C_CE75_41B9_B35F39A5668A.url = media/panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA_HS_t1r7u0m6_pt.png
+imlevel_195AB761_3F3C_C797_41B4_D7CE0C6059DE.url = media/panorama_0BB63BA6_2A86_55A9_4189_FD3D2276640C_HS_cjq573bs_pt.png
+imlevel_197A9E44_3F3C_499C_41C6_C257C74063E8.url = media/panorama_0BB78063_2A86_52AE_41C5_57CE78A02483_HS_vk1epyqj_pt.png
+imlevel_1A0C06BD_3F3C_C6EC_41C9_EAF08AD3D2C8.url = media/panorama_0BBFA2B0_2A86_B7A9_41B9_F78E54EE00B7_HS_37hlvkic_pt.png
+imlevel_160E79DC_3F3C_CAAC_41A9_AF9AD9AC437A.url = media/panorama_0BBFEDE3_2A86_4DAF_41B8_19D5316D767B_HS_ur54y8k8_pt.png
+imlevel_2229278F_3F3C_46AC_41CF_8CFC63CE8A59.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_bd7785i1_pt.png
+
+### Title
+panorama_0BAAEC0D_2A82_527A_41C4_77A798E1A6F5.label = (10)
+panorama_0BAA56AC_2A82_BFB9_41A4_2D5A6C507706.label = (11)
+panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF.label = (12)
+panorama_0BA90B62_2A82_D6A9_41B5_28D33799C1CA.label = (13)
+panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4.label = (14)
+panorama_0BAE9B78_2A82_D699_41A5_491E9B519910.label = (16)
+panorama_0BAFA51B_2A82_B29F_41BD_B860D1E88BCF.label = (17)
+panorama_0BADAFA7_2A82_4DB7_41C3_26D626C34EDF.label = (18)
+panorama_0BACD075_2A82_52AA_41B2_E31F94E331E7.label = (21)
+panorama_0BACCA8E_2A82_5679_41C2_D33EBC021850.label = (22)
+panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94.label = (23)
+panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4.label = (24)
+panorama_0BA4F927_2A85_D2B7_41BF_61E7B6B22673.label = (25)
+panorama_0BA7CCE2_2A85_F3AE_41B1_B905B69BC75D.label = (27)
+panorama_0BA06693_2A85_DE6E_417C_6C3A2618111A.label = (28)
+panorama_0BA10183_2A85_B26F_41B9_E54F14305374.label = (29)
+panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6.label = (30)
+panorama_0BA245B3_2A86_5DAF_41B6_79ECB8CD5FDB.label = (31)
+panorama_0BA25030_2A86_72AA_41B3_78F3486F42D9.label = (32)
+panorama_0BA29B73_2A86_76AF_41A9_40EE22DE3EE1.label = (33)
+panorama_0BA3F6A3_2A86_5FAE_41BB_B032B0CBB0A5.label = (34)
+panorama_0BBC8121_2A86_B2AB_41B2_2BDDAF687C09.label = (35)
+panorama_0BBC5C51_2A86_B2EA_41C4_9C442A535326.label = (36)
+panorama_0BBCE775_2A86_DEAA_41B1_5D040C096214.label = (37)
+panorama_0BBDB2FA_2A86_F79E_41BD_5420214ABE87.label = (38)
+panorama_0BBF8833_2A86_D2AE_41BE_4EC74567D198.label = (40)
+panorama_0BBFEDE3_2A86_4DAF_41B8_19D5316D767B.label = (42)
+panorama_0BBF48F2_2A86_53AE_41C4_F3419AEEC5DB.label = (43)
+panorama_0BB9A437_2A86_7297_41AE_8BD5B2E3E8E2.label = (44)
+panorama_0BB8BE81_2A86_4E6B_4187_5CA830E3F7FE.label = (45)
+panorama_0BB999E3_2A86_55AE_41C0_0861C763F9A9.label = (46)
+panorama_0BB8E4E7_2A87_B3B6_41B6_06E624A82371.label = (47)
+panorama_0BBB8F94_2A87_CE69_41B9_85ECD43CD398.label = (48)
+panorama_0BBB19A9_2A87_D5BA_41A6_3D69F6B04DEE.label = (49)
+panorama_0BD5A81D_2A83_B29B_4168_95594610F6DA.label = (5)
+panorama_0BBA6436_2A87_F2A9_418C_B6ECBB3BAA65.label = (50)
+panorama_0BBAEAED_2A87_D7BA_4186_22331C609258.label = (52)
+panorama_0BB40F2E_2A86_4EB9_41B7_20908871DDC0.label = (54)
+panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5.label = (55)
+panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1.label = (56)
+panorama_0BB1B72C_2A86_BEB9_41C2_6343BDF56452.label = (59)
+panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C.label = (6)
+panorama_0BB1B20D_2A86_D67B_41BC_4D7E1700BEDC.label = (60)
+panorama_0BB0FC63_2A86_D2AF_41AC_7B66C5ECCB88.label = (61)
+panorama_0BB0F701_2A86_FE6A_41B4_9E41313B29F6.label = (62)
+panorama_0BB0F190_2A86_D269_41A7_210BE7C68E2C.label = (63)
+panorama_0BAA1D12_2A82_526E_41B4_212F11AF1053.label = (7)
+panorama_0BAA2739_2A82_7E9A_41B1_58242A1D36E7.label = (8)
+panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D.label = BIBLIOTECA ENSINO FUNDAMENTAL
+panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA.label = CINEMA
+panorama_0BB283CD_2A86_55FA_41BB_32B3BA48A8F3.label = ENTRADA 01
+panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0.label = ENTRADA 02
+panorama_0BAAC1B6_2A82_5596_41C2_339C2D8FD6F6.label = GRAMADO
+panorama_0BB5EFCB_2A87_CDFE_41A3_00D51355F0C3.label = MINI CIDADE 01
+panorama_0BBFA2B0_2A86_B7A9_41B9_F78E54EE00B7.label = MINI CIDADE 02
+panorama_0BB63BA6_2A86_55A9_4189_FD3D2276640C.label = PARQUE DA AREIA COLORIDA
+panorama_0BB78063_2A86_52AE_41C5_57CE78A02483.label = PARQUE DA FRENTE
+panorama_0BAE29F0_2A82_55AA_41B4_E4A3B936C14A.label = QUADRA 03
+panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB.label = QUADRA DE ESPORTES 01
+panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90.label = RECEPÇÃO
+panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D.label = REFEITORIO 01
+panorama_0BD6A9D4_2A83_F5E9_41C0_D04264D92B72.label = REFEITORIO 02
+panorama_0BD5441F_2A83_D297_4195_B3921F9E9D28.label = REFEITORIO 03
+panorama_0BBD2DBA_2A86_CD9E_41C4_CD229B1E63ED.label = SALA DE AULA ENSINO FUNDAMENTAL
+
+## Skin
+
+### Button
+Button_893FF451_9F7A_8BDF_41D1_AD6405E7FCF6_mobile.label = @gmais360tour
+Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E.label = @gmais360tour
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = BIBLIOTECA ENSINO FUNDAMENTAL
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLIOTECA ENSINO FUNDAMENTAL
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = CINEMA
+Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
+Button_881C7591_9F77_955F_41D5_1BEAD62B2BFF_mobile.label = ESTE TOUR FOI DESENVOLVIDO PELA 
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_37E805E2_22EE_7FB4_41BF_B6A7DE790F0A_mobile.label = MINICIDADE
+Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
+Button_37A8A531_22EA_7C94_41C0_8EACD1157823_mobile.label = MINIFAZENDA
+Button_3264EC09_204D_5B96_4191_8B10500532EE.label = MINIFAZENDA
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = PARQUE DA FRENTE
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = PARQUE DA FRENTE
+Button_325417C8_204F_7496_41C0_16CD315E64C6.label = QUADRAS DE ESPORTES
+Button_896E59F7_9F76_9CC3_41DE_BF05571F1EE0_mobile.label = QUADRAS DE ESPORTES
+Button_282E6286_3F3C_3E9C_41B5_7D9831CA62DB.label = QUADRAS DE ESPORTES
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = RECEPÇÃO CARLOS RAZERA
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = RECEPÇÃO CARLOS RAZERA
+Button_36F40FB2_22F6_4B94_41C1_53343FAD9782_mobile.label = REFEITÓRIO
+Button_3682B2E5_22F6_55BC_41B6_6EBA34E99B27_mobile.label = SALA DE AULA DO ENSINO FUNDAMENTAL
+Button_3272D2CC_204D_6CAE_4165_DB632ECFC074.label = SALA DE AULA DO ENSINO FUNDAMENTAL
+
+### Image
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_pt.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_pt.jpg
+Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063.url = skin/Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063_pt.gif
+Image_851E801C_A3F3_CF9E_41E2_33B56EE2FB93.url = skin/Image_851E801C_A3F3_CF9E_41E2_33B56EE2FB93_pt.gif
+Image_B0B570CA_A3B1_D0F8_41CC_F04064005DCF.url = skin/Image_B0B570CA_A3B1_D0F8_41CC_F04064005DCF_pt.gif
+Image_B67C639F_A3AE_5099_41DE_45F11909F89C.url = skin/Image_B67C639F_A3AE_5099_41DE_45F11909F89C_pt.gif
+Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6.url = skin/Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COLEGIO NOVA GERAÇÃO
