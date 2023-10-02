@@ -1,9 +1,7 @@
 {
+ "display": "fullscreen",
  "start_url": "index.htm",
  "background_color": "#00FFFF",
- "theme_color": "#00FFFF",
- "name": "COLEGIO NOVA GERAÇÃO",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +38,7 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ]
+ ],
+ "theme_color": "#00FFFF",
+ "name": "ESCOLA NOVA GERAÇÃO"
 }
