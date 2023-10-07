@@ -4,8 +4,7 @@
 
 ### URL
 LinkBehaviour_B5A6621C_9F49_8F45_41C1_FE8A75A89949.source = https://www.instagram.com/gmais360tour/
-LinkBehaviour_A0BE1173_9ECE_8DC2_41B8_9498F9BFFD6A.source = https://www.instagram.com/gmais360tour/
-LinkBehaviour_B52B374C_9F4A_95C5_41D7_D7F1F7398587.source = https://www.instagram.com/gmais360tour/
+LinkBehaviour_12AD0809_0830_544A_417E_D628200B98DD.source = https://www.instagram.com/gmais360tour/
 
 ## Hotspot
 
@@ -17,16 +16,15 @@ HotspotPanoramaOverlayTextImage_F3FF9E94_DD53_F918_41D6_27495B23CC59.text =  \
 PRAIA  \
 Que delícia sentir a praia pertinho da gente... As crianças se desenvolvem em contato com a areia, estimulando diferentes sentidos, experienciando texturas, temperaturas, cores e formas. Para os mais radicais, a tirolesa é um convite a sentir o ventinho no rosto.
 HotspotPanoramaOverlayTextImage_C0BC8B89_DD51_9F09_41E5_82669D02A06B.text = AREA EXTERNA
-HotspotPanoramaOverlayTextImage_D42CA5B6_C4D1_0625_41E6_1FFFC691710D.text = BIBLIOTECA EDUCAÇÃO INFANTIL E ENSINO \
+HotspotPanoramaOverlayTextImage_D42CA5B6_C4D1_0625_41E6_1FFFC691710D.text = BIBLIOTECA EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
- Fundamental: colocar nome no tour e na barra de pesquisa + adicionar este texto no tour: oferece às crianças uma oportunidade única de explorar o mundo da leitura de forma regular e prazerosa. \
  Ao visitarem a biblioteca semanalmente, as crianças têm a chance de se envolverem com diferentes livros e histórias, seja de forma individual ou em grupos. Esse contato frequente com a leitura contribui para o desenvolvimento da linguagem, da imaginação e do gosto pela leitura desde cedo. O fato de também poderem emprestar livros para lerem em casa é um incentivo adicional para a prática da leitura fora do ambiente escolar. Essa prática possibilita que a leitura se estenda para além das salas de aula, transformando-se em um hábito saudável e enriquecedor para as crianças.
-HotspotPanoramaOverlayTextImage_C3F5F4F8_DD71_8917_41D2_2B4C2ADB7065.text = BLIBIOTECA ENSINO FUNDAMENTAL \
+HotspotPanoramaOverlayTextImage_C3F5F4F8_DD71_8917_41D2_2B4C2ADB7065.text = BLIBIOTECA ENSINO FUNDAMENTAL ANOS FINAIS \
  \
 A biblioteca conta com um acervo grande, próprio para essa faixa etária e os alunos podem emprestar livros sempre que quiserem.
-HotspotPanoramaOverlayTextImage_F18CDC39_DD50_9908_41B4_E09D50048390.text = BOSQUE DO TIO DIRCEL
-HotspotPanoramaOverlayTextImage_887F2496_EF8A_F55E_41DD_4E7B88A098A6.text = BOSQUE DO TIO DIRCEL
-HotspotPanoramaOverlayTextImage_60FFA90E_EE87_7F4E_41E7_273AB98D2822.text = BOSQUE DO TIO DIRCEL
+HotspotPanoramaOverlayTextImage_60FFA90E_EE87_7F4E_41E7_273AB98D2822.text = BOSQUE DO TIO DIRCEU
+HotspotPanoramaOverlayTextImage_F18CDC39_DD50_9908_41B4_E09D50048390.text = BOSQUE DO TIO DIRCEU
+HotspotPanoramaOverlayTextImage_887F2496_EF8A_F55E_41DD_4E7B88A098A6.text = BOSQUE DO TIO DIRCEU
 HotspotPanoramaOverlayTextImage_C78770D1_DD50_8919_41BA_B57C1A487715.text = BOSQUE DO TIO OSMAR \
  Que tal dirigir um caminhão?! Ou melhor ainda, entrar na aventura de subir na carroceria dele e espiar quem está dirigindo? Há também quem prefira imitar um pirata e subir em um mirante para olhar lá de cima e planejar as próximas brincadeiras. O Bosque é lugar de imaginar e desafiar o corpo nas mais diversas atividades.
 HotspotPanoramaOverlayTextImage_CD265B7F_DCB0_7F09_41CC_73955D0C8C07.text = BRINQUEDÃO: \
@@ -48,9 +46,9 @@ HotspotPanoramaOverlayTextImage_2C52BAEE_3F2C_CE6D_41C0_8A620CB62464.text = MINI
  Esse espaço proporciona às crianças uma experiência valiosa ao aprenderem sobre normas de trânsito e princípios de cidadania de uma forma lúdica e envolvente. Permitir que as crianças da Educação infantil transitem com suas bicicletas e motocas na minicidade favorece o desenvolvimento físico e motor, além de promover a independência e a autonomia ao se locomoverem de forma segura dentro desse ambiente planejado. A minicidade oferece uma oportunidade única para as crianças vivenciarem diferentes papéis sociais ao assumirem personagens em suas brincadeiras
 HotspotPanoramaOverlayTextImage_F01F2054_DF51_891F_41E7_A6A07D08215E.text = MINIFAZENDA \
  A experiência de conviver com outros seres vivos, especialmente os animais, é saudável e fundamental para o desenvolvimento das crianças. Essa interação proporciona benefícios emocionais, educacionais e terapêuticos que contribuem para o crescimento integral dos alunos. Além disso, estar próximo a animais possibilita que as crianças ampliem seus conhecimentos sobre o mundo natural. Observar o comportamento dos animais, aprender sobre suas características e necessidades, e até mesmo cuidar deles são experiências educacionais valiosas.
-HotspotPanoramaOverlayTextImage_E1A19C9A_F138_C995_41ED_B53CCD178385.text = PARQUE DA FRENTE \
+HotspotPanoramaOverlayTextImage_304A6196_0134_C37C_4168_A13E4CBED8A4.text = O LABORATÓRIO \
  \
-A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
+O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia, comportamento e curiosidades dos animais, visualizando as estruturas no microscópio e animais que possuímos no laboratório. As misturas químicas e suas reações através de experiências de reagentes em tubos de ensaio feito especialmente para eles  e ensinar nossas crianças a respeitar e preservar o meio ambiente e o futuro do planeta.
 HotspotPanoramaOverlayTextImage_FFE77FD4_ED8E_92D2_41E9_FF12B9641FF6.text = PARQUE DA FRENTE \
  \
 A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
@@ -59,7 +57,13 @@ HotspotPanoramaOverlayTextImage_60D5E2BD_EE87_8D52_41E4_6F51568484B1.text = PRAI
 HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAIA
 HotspotPanoramaOverlayTextImage_7C52063F_EE85_954E_41E6_D6BBB9D31BEC.text = QUADRA
 HotspotPanoramaOverlayTextImage_FED80AFD_DD51_B908_41E5_7E0E057EE82F.text = QUADRA 01
-HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRA 02
+HotspotPanoramaOverlayTextImage_4514F6ED_0114_CEAC_415E_01D200AC042E.text = QUADRA 02
+HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
+ \
+ Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
+HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
+ \
+ Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
 HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUINTAL \
   Um quintal dentro da escola, um espaço para brincar junto, catar pedrinhas, comparar folhas, explorar a terra e a areia, procurar bichinhos e fazer comidinhas. Explorar o mundo sem ir para longe, esse é o quintal da Vila dos Filhotes.   \
  \
@@ -78,74 +82,81 @@ Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-co
 HotspotPanoramaOverlayTextImage_F3983451_E1EC_1CE0_41C3_8D8530DB76D6.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
 Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
+HotspotPanoramaOverlayTextImage_3366A7FD_010D_CEAC_4165_DDE7B40C48E0.text = SALA DE AULAS ESPECIAS \
+ \
+As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
 HotspotPanoramaOverlayTextImage_C170473B_DD50_9708_41D9_9969AD429310.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_F5BA673C_DDB0_B70F_41E8_AA6EA6A0595B.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
-HotspotPanoramaOverlayTextImage_F3991A5D_DD71_9908_41E2_AB7609BDEC80.text = SALA DE REFERÊNCIA EDUCAÇÃO INFANTIL \
+HotspotPanoramaOverlayTextImage_15393B70_0117_47B5_415E_67EA678CC140.text = SALA DE REFERÊNCIA EDUCAÇÃO INFANTIL \
 Nossas salas de referência da Educação Infantil são organizadas em microambientes para que as crianças desenvolvam autonomia e autoconfiança ao transitarem pelo espaço. Essa abordagem respeita o ritmo de cada criança e valoriza suas escolhas, permitindo que elas façam suas próprias descobertas e desenvolvam suas habilidades de tomada de decisão num ambiente seguro, acolhedor e rico em possibilidades.
 HotspotPanoramaOverlayTextImage_D8CF307C_F7A2_A71B_41DC_E47075F9BB09.text = SALAS DE REFERÊNCIA EDUCAÇAO INFANTIL
-HotspotPanoramaOverlayTextImage_DABFED7B_F7A7_B91C_41CF_CA64078F8CD7.text = SALAS DE REFERÊNCIA EDUCAÇAO INFANTIL
 HotspotPanoramaOverlayTextImage_D8674FF4_F7A2_992B_41E5_E57F933F494C.text = SALAS DE REFERÊNCIA EDUCAÇAO INFANTIL \
  \
  Nossas salas de referência da Educação Infantil são organizadas em microambientes para que as crianças desenvolvam autonomia e autoconfiança ao transitarem pelo espaço. Essa abordagem respeita o ritmo de cada criança e valoriza suas escolhas, permitindo que elas façam suas próprias descobertas e desenvolvam suas habilidades de tomada de decisão num ambiente seguro, acolhedor e rico em possibilidades.
 HotspotPanoramaOverlayTextImage_C7FECAC7_DD50_B978_41E5_C9EC46250D08.text = SALAS DE REFERÊNCIA EDUCAÇÃO INFANTIL \
  \
  Nossas salas de referência da Educação Infantil são organizadas em microambientes para que as crianças desenvolvam autonomia e autoconfiança ao transitarem pelo espaço. Essa abordagem respeita o ritmo de cada criança e valoriza suas escolhas, permitindo que elas façam suas próprias descobertas e desenvolvam suas habilidades de tomada de decisão num ambiente seguro, acolhedor e rico em possibilidades.
-HotspotPanoramaOverlayTextImage_D392B177_C363_3233_41E5_CD363F6D1603.text = Sejam bem vindos a nossa  \
+HotspotPanoramaOverlayTextImage_D392B177_C363_3233_41E5_CD363F6D1603.text = Sejam bem-vindos a nossa  \
   \
 ESCOLA NOVA GERAÇÃO \
  \
 (clique nas marcações no chão  \
 para navegar)
+HotspotPanoramaOverlayTextImage_DABFED7B_F7A7_B91C_41CF_CA64078F8CD7.text = VILA DOS FILHOTES
 
 ## Media
 
 ### Audio
+audiores_3407A065_0870_54FB_4188_1473AC84A201.mp3Url = media/audio_30D8BD9A_0870_4C4E_4199_277725831208_pt.mp3
 audiores_8E37C908_EF9A_9F32_41A6_338950F933B0.mp3Url = media/audio_8FFA75AC_EF9B_9772_41D1_D93D71A873E1_pt.mp3
 
 ### Image
 imlevel_CB7A7CB5_ED8E_9552_41E5_237F02CEAF5A.url = media/panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D_HS_3m2i04is_pt.png
+imlevel_2B41BA5A_080F_B4CE_419D_E86B85C5A422.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_ybid3mqt_pt.png
 imlevel_CD600639_ED8E_B552_41D2_2B6FC29519CB.url = media/panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4_HS_ihvidvcl_pt.png
 imlevel_FE98FCFD_EF17_4943_41D0_92DD777F1409.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_16k35jda_pt.png
 imlevel_FE869D42_EF17_4B41_41E0_700E73D5A538.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_bo7bh4dh_pt.png
 imlevel_FE87AD7F_EF17_4B3F_41C5_9E3B22CA6DA9.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_ere0udqd_pt.png
 imlevel_CD5C79E3_ED8E_BEF6_41B1_4DF8ADE4DF7F.url = media/panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF_HS_mfzph3oe_pt.png
-imlevel_9513BDF6_EE86_F6DF_41EB_40E2D215A5A4.url = media/panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF_HS_utjiweig_pt.png
-imlevel_CD791E38_ED8E_9553_41E4_0EE5D9348750.url = media/panorama_0BAA1D12_2A82_526E_41B4_212F11AF1053_HS_zm3kf5d0_pt.png
+imlevel_2CDE78EF_080F_B5C6_4199_A2CC33DD3069.url = media/panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF_HS_utjiweig_pt.png
 imlevel_CD6B6267_ED8E_8DFE_41E6_95198DF354FE.url = media/panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94_HS_9ac6cym7_pt.png
 imlevel_CE62B574_ED8E_B7D2_41C0_1588CC692C72.url = media/panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94_HS_h5pytj8i_pt.png
-imlevel_50E2A585_F989_675C_41EB_1FAE778CF457.url = media/panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D_HS_52vh59oj_pt.png
+imlevel_2F8F3813_080F_D45F_4198_E2C317C3A545.url = media/panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D_HS_52vh59oj_pt.png
 imlevel_CD2AEF7A_ED8E_B3D7_41E4_FB5CCACFE454.url = media/panorama_0BAE29F0_2A82_55AA_41B4_E4A3B936C14A_HS_1w2d4lg1_pt.png
-imlevel_CFB57EDE_ED8E_B2CE_41E6_78F34BB5E061.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_kn7o15jj_pt.png
-imlevel_C8FAF334_DCF1_8F18_41D6_3A0E413D341F.url = media/panorama_0BB283CD_2A86_55FA_41BB_32B3BA48A8F3_HS_tzic2lzf_pt.png
+imlevel_2B69C0EA_080F_B5C9_4181_4504B0B1542B.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_j63q34kt_pt.png
+imlevel_2E63EF79_080F_CCCA_419D_0AD8C5109AF8.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_kn7o15jj_pt.png
+imlevel_2B36CB6A_080F_F4CE_419C_7E6F62254166.url = media/panorama_0BB283CD_2A86_55FA_41BB_32B3BA48A8F3_HS_tzic2lzf_pt.png
 imlevel_5E1CE865_F9B6_ADDC_41E9_85D5685DBA44.url = media/panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0_HS_a762htyj_pt.png
-imlevel_5A951526_F9B6_A75C_41D3_3CCB8325EF17.url = media/panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5_HS_r6joeoio_pt.png
+imlevel_2C93E151_080F_D4DA_4181_BD1B4FC9A908.url = media/panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5_HS_r6joeoio_pt.png
 imlevel_CE76F022_ED8E_8D76_41DD_E11CE5E527C2.url = media/panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA_HS_t1r7u0m6_pt.png
 imlevel_CE17C642_ED8E_9537_41E2_7FCBBE10ECC8.url = media/panorama_0BB63BA6_2A86_55A9_4189_FD3D2276640C_HS_usv9a08e_pt.png
 imlevel_CB593B33_DCF0_7F1F_41E2_8410474AA052.url = media/panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1_HS_lqi62jsk_pt.png
 imlevel_CCAA57D4_ED8E_92D3_41D6_AAD8E8053CE0.url = media/panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1_HS_q24f1hxc_pt.png
-imlevel_51504ACC_F9B6_A2EE_41E2_1AFE4CB66EFC.url = media/panorama_0BB78063_2A86_52AE_41C5_57CE78A02483_HS_erm7ne6p_pt.png
 imlevel_C9B8D2D3_ED8E_92D5_41D5_C74498973960.url = media/panorama_0BB9A437_2A86_7297_41AE_8BD5B2E3E8E2_HS_r5vovqzh_pt.png
-imlevel_5D366F9C_F989_636C_41EC_9EAD17A3B518.url = media/panorama_0BBA6436_2A87_F2A9_418C_B6ECBB3BAA65_HS_96x3jq34_pt.png
+imlevel_2298C6FA_0870_5DCE_414B_BB4BB1CEE34E.url = media/panorama_0BBA6436_2A87_F2A9_418C_B6ECBB3BAA65_HS_96x3jq34_pt.png
 imlevel_51B54EA8_F989_6554_41E9_128462A2F6FF.url = media/panorama_0BBB19A9_2A87_D5BA_41A6_3D69F6B04DEE_HS_e2p4ijli_pt.png
 imlevel_5E28DA78_F989_6DB5_41EE_D7F3FA147445.url = media/panorama_0BBB8F94_2A87_CE69_41B9_85ECD43CD398_HS_oxxu9igy_pt.png
-imlevel_5FEC0914_F989_6F7C_41E7_15CDAE1F3575.url = media/panorama_0BBC5C51_2A86_B2EA_41C4_9C442A535326_HS_oqmbgprg_pt.png
+imlevel_2E771C53_080F_CCDE_4196_D8E0812E997C.url = media/panorama_0BBC5C51_2A86_B2EA_41C4_9C442A535326_HS_oqmbgprg_pt.png
 imlevel_CD543CAD_ED8E_B572_41E6_50F6A95A5BB1.url = media/panorama_0BBCE775_2A86_DEAA_41B1_5D040C096214_HS_7nxe9sek_pt.png
 imlevel_CE0EF82C_ED8E_9D72_41D2_FE3EB5FFBCD0.url = media/panorama_0BBD2DBA_2A86_CD9E_41C4_CD229B1E63ED_HS_y9zb7qo8_pt.png
 imlevel_5AF78D96_F989_677D_41E1_57AA625EF2DF.url = media/panorama_0BBFA2B0_2A86_B7A9_41B9_F78E54EE00B7_HS_37hlvkic_pt.png
 imlevel_5D2156FE_F989_62AC_41D2_CE0EF56C6F5F.url = media/panorama_0BBFEDE3_2A86_4DAF_41B8_19D5316D767B_HS_i1f7p86a_pt.png
 imlevel_5C2D8F50_F9B6_A3F4_41ED_07138FD83DC3.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_tdylel35_pt.png
+imlevel_2B6F9271_080F_B4DA_4180_5FD44AC02574.url = media/panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C_HS_hqdafo5b_pt.png
+imlevel_2B01E7FA_0870_5BCE_419F_5327C85E1B15.url = media/panorama_33449D14_0134_C37C_4171_73561842FCB4_HS_22edacud_pt.png
 imlevel_CB321CE0_ED8E_B6F2_41EB_51497E711E1C.url = media/panorama_C256AC13_DD71_B918_41E4_764910095D5A_HS_3w7ynvwl_pt.png
-imlevel_5AD9834E_F989_63EC_41C8_D47D98F4EB81.url = media/panorama_D2DD1FD3_F89A_A2FB_41D7_8E197055AD78_HS_216tlzl9_pt.png
+imlevel_2E5CC6BF_080F_BC46_4165_84DC9ECC0EC8.url = media/panorama_D2DD1FD3_F89A_A2FB_41D7_8E197055AD78_HS_216tlzl9_pt.png
 imlevel_5ADCA52A_F989_6754_41EB_BDDFEB064617.url = media/panorama_D2DD1FD3_F89A_A2FB_41D7_8E197055AD78_HS_6fxtrsr8_pt.png
 imlevel_5ADE5607_F989_655C_41E1_A2B0548479D6.url = media/panorama_D3647020_F89F_7D54_41BF_3EB55089DCF5_HS_maq628cb_pt.png
-imlevel_5ADFB675_F989_65BC_41ED_D1364D2D30C8.url = media/panorama_D3647020_F89F_7D54_41BF_3EB55089DCF5_HS_mmehuojd_pt.png
+imlevel_2B40D99D_080F_B44A_4182_BF4A62ACEC80.url = media/panorama_D3647020_F89F_7D54_41BF_3EB55089DCF5_HS_mmehuojd_pt.png
 imlevel_CB1614FD_ED8E_96D2_41D5_F082BD1A729E.url = media/panorama_F43BF2BC_DD51_8908_41E7_13919A94BEE3_HS_ey8ehgi3_pt.png
 imlevel_5AB66C9D_F9B6_A56C_41CB_CDB9E0BCC5BC.url = media/panorama_F43ECEDA_DD51_F908_41C5_8269104C751A_HS_mastf4xe_pt.png
 imlevel_CE06EBA6_ED8E_937F_41C4_E5C43A6558BF.url = media/panorama_F43F2880_DD51_B9F8_41CB_92B7C4C4E0F8_HS_9ymur1cc_pt.png
+imlevel_2B69C137_080F_B446_416D_5013F6E9A214.url = media/panorama_FF37C202_DD70_88F8_41EA_2A2DD937144C_HS_q7us2te7_pt.png
 imlevel_CE23B270_ED8E_8DD2_41DC_92378CF483C0.url = media/panorama_FF37C202_DD70_88F8_41EA_2A2DD937144C_HS_rj1vgrzx_pt.png
 imlevel_C5C91FF7_DCF0_7718_41D3_8A30C5B36D92.url = media/popup_CF1423BB_DCF0_8F08_41E3_4B8E4C07BFF3_pt_0_0.jpg
 imlevel_C5C9FFF7_DCF0_7718_41E6_FF774394A02E.url = media/popup_CF1423BB_DCF0_8F08_41E3_4B8E4C07BFF3_pt_0_1.jpg
@@ -169,6 +180,7 @@ panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94.label = (23)
 panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4.label = (24)
 panorama_0BA4F927_2A85_D2B7_41BF_61E7B6B22673.label = (25)
 panorama_0BA7CCE2_2A85_F3AE_41B1_B905B69BC75D.label = (27)
+panorama_33449D14_0134_C37C_4171_73561842FCB4.label = (29)
 panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6.label = (30)
 panorama_0BA245B3_2A86_5DAF_41B6_79ECB8CD5FDB.label = (31)
 panorama_0BA25030_2A86_72AA_41B3_78F3486F42D9.label = (32)
@@ -188,7 +200,6 @@ panorama_0BBA6436_2A87_F2A9_418C_B6ECBB3BAA65.label = (50)
 panorama_0BBAEAED_2A87_D7BA_4186_22331C609258.label = (52)
 panorama_0BB40F2E_2A86_4EB9_41B7_20908871DDC0.label = (54)
 panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5.label = (55)
-panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1.label = (56)
 panorama_0BB1B72C_2A86_BEB9_41C2_6343BDF56452.label = (59)
 panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C.label = (6)
 panorama_0BB1B20D_2A86_D67B_41BC_4D7E1700BEDC.label = (60)
@@ -203,8 +214,9 @@ album_F572E194_DDB7_8B18_41E7_B173FE62A2EC_2.label = 20230721_111643
 album_F572E194_DDB7_8B18_41E7_B173FE62A2EC_3.label = 20230721_111702
 album_F572E194_DDB7_8B18_41E7_B173FE62A2EC_4.label = 20230721_111917
 panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D.label = BIBLIOTECA ENSINO FUNDAMENTAL
-panorama_0BBCE775_2A86_DEAA_41B1_5D040C096214.label = BOSQUE DO TIO OSMAR
 panorama_F43E0F81_DD51_97F8_41A9_564258C7DF8D.label = BOSQUE DO TIO OSMAR
+panorama_0BBCE775_2A86_DEAA_41B1_5D040C096214.label = BOSQUE DO TIO OSMAR
+panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1.label = BRINQUEDÃO
 panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA.label = CINEMA
 panorama_0BB283CD_2A86_55FA_41BB_32B3BA48A8F3.label = ENTRADA 01
 panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0.label = ENTRADA 02
@@ -234,61 +246,75 @@ album_F572E194_DDB7_8B18_41E7_B173FE62A2EC.label = Álbum de Fotos 20230721_1116
 ## Skin
 
 ### Button
-Button_A4BA5939_EF85_BF52_41D8_1B6093FD0153_mobile.label =  LABORATÓRIO DE CIÊNCIAS
-Button_893FF451_9F7A_8BDF_41D1_AD6405E7FCF6_mobile.label = @gmais360tour
 Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E.label = @gmais360tour
-Button_9EDFA96B_EF86_9FF6_41E2_59F800ACB112.label = BIBLIOTECA EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLIOTECA ENSINO FUNDAMENTAL
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = BIBLIOTECA ENSINO FUNDAMENTAL
-Button_A8D325CF_EFFB_96CE_41A6_B9FAC3ADDA94_mobile.label = BOSQUE DO TIO DIRCEL
-Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA.label = BOSQUE DO TIO DIRCEL
+Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E_mobile.label = @gmais360tour
+Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7.label = BIBLIOTECA ANOS FINAIS
+Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7_mobile.label = BIBLIOTECA ANOS FINAIS
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLIOTECA ED. INFANTIL
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = BIBLIOTECA ED. INFANTIL
+Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA.label = BOSQUE DO TIO DIRCEU
+Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA_mobile.label = BOSQUE DO TIO DIRCEU
 Button_282E6286_3F3C_3E9C_41B5_7D9831CA62DB.label = BOSQUE DO TIO OSMAR
-Button_A84C11A5_EFFB_8F7D_41E2_2F730286B98F_mobile.label = BOSQUE DO TIO OSMAR
+Button_282E6286_3F3C_3E9C_41B5_7D9831CA62DB_mobile.label = BOSQUE DO TIO OSMAR
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = BRINQUEDÃO
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = BRINQUEDÃO
+Button_083C1A33_07F0_545E_4183_C2D47D468EC3.label = CASA DO GEPPETO
+Button_083C1A33_07F0_545E_4183_C2D47D468EC3_mobile.label = CASA DO GEPPETO
+Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E_mobile.label = CINEMA
 Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
-Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = CINEMA
-Button_881C7591_9F77_955F_41D5_1BEAD62B2BFF_mobile.label = ESTE TOUR FOI DESENVOLVIDO PELA 
+Button_F629BEA9_ED85_9572_41D8_04DBAEE69375_mobile.label = GRAMINHA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375.label = GRAMINHA
-Button_A48B4774_EF85_B3D2_41D0_56AB8B01F536_mobile.label = GRAMINHA
-Button_A88E6DC0_EFFB_9732_41E4_F3E903B7F887_mobile.label = GRAMINHA
-Button_A2D5CCFB_EF8D_96D6_41E1_E9A23C77B4DC_mobile.label = GRAMINHA
-Button_A286DF02_EF8D_9336_41E5_7323D90C6094_mobile.label = GRAMINHA
 Button_F1A914C9_ED87_7532_41E0_658DDECF1CE0.label = HOP AROUND ROOM
+Button_F1A914C9_ED87_7532_41E0_658DDECF1CE0_mobile.label = HOP AROUND ROOM
+Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0_mobile.label = LABORATÓRIO DE CIÊNCIAS
 Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0.label = LABORATÓRIO DE CIÊNCIAS
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
-Button_9E2390D1_EF86_8ED5_4183_DA0CB12DD83A_mobile.label = MINICIDADE
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
 Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
-Button_37E805E2_22EE_7FB4_41BF_B6A7DE790F0A_mobile.label = MINICIDADE
+Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
+Button_3264EC09_204D_5B96_4191_8B10500532EE_mobile.label = MINIFAZENDA
 Button_3264EC09_204D_5B96_4191_8B10500532EE.label = MINIFAZENDA
-Button_37A8A531_22EA_7C94_41C0_8EACD1157823_mobile.label = MINIFAZENDA
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = PARQUE DA FRENTE
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = PARQUE DA FRENTE
-Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = PARQUE DA FRENTE
-Button_A89E4F28_EFFB_9373_41EA_CB3585082DDB_mobile.label = PRAIA
 Button_F6005A15_ED8A_9D52_41E1_6A95938ED365.label = PRAIA
-Button_896E59F7_9F76_9CC3_41DE_BF05571F1EE0_mobile.label = QUADRAS DE ESPORTES
-Button_AC6A2E94_EF85_7553_41E9_9A0C83123154.label = QUADRAS DE ESPORTES
+Button_F6005A15_ED8A_9D52_41E1_6A95938ED365_mobile.label = PRAIA
+Button_177299AD_07F1_D44A_418A_06F9E517D18A_mobile.label = QUADRA 03
+Button_177299AD_07F1_D44A_418A_06F9E517D18A.label = QUADRA 03
+Button_AC6A2E94_EF85_7553_41E9_9A0C83123154.label = QUADRAS 01
+Button_AC6A2E94_EF85_7553_41E9_9A0C83123154_mobile.label = QUADRAS 01
+Button_1744EBCF_07F1_CBC6_4194_7BF7D310295C_mobile.label = QUADRAS 02
+Button_1744EBCF_07F1_CBC6_4194_7BF7D310295C.label = QUADRAS 02
+Button_F646DAEB_ED8E_92F6_4190_F290EFA058CA_mobile.label = QUINTAL
 Button_F646DAEB_ED8E_92F6_4190_F290EFA058CA.label = QUINTAL
-Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = RECEPÇÃO CARLOS RAZERA
-Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = RECEPÇÃO CARLOS RAZERA
+Button_1776C413_07F0_7C5E_4198_F01979AEE951.label = RECEPÇÃO CARLOS RAZERA
+Button_1776C413_07F0_7C5E_4198_F01979AEE951_mobile.label = RECEPÇÃO CARLOS RAZERA
 Button_325417C8_204F_7496_41C0_16CD315E64C6.label = REFEITORIO
-Button_36F40FB2_22F6_4B94_41C1_53343FAD9782_mobile.label = REFEITÓRIO
-Button_3682B2E5_22F6_55BC_41B6_6EBA34E99B27_mobile.label = SALA DE AULA DO ENSINO FUNDAMENTAL
-Button_3272D2CC_204D_6CAE_4165_DB632ECFC074.label = SALA DE AULA DO ENSINO FUNDAMENTAL
-Button_A8AAE00A_EFFB_8D36_41CF_BB3795D9F060_mobile.label = SALA DE AULA ENSINO FUNDAMENTAL ANOS FINAIS
-Button_F1BDB6FF_ED8E_92CE_41E2_832CA14831E4.label = SALA DE AULA ENSINO FUNDAMENTAL ANOS FINAIS
-Button_F1ACF583_ED8E_9736_41B9_89E46CB0677F.label = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS
-Button_A8B900EB_EFFB_8EF6_41CF_CC80398CDB1E_mobile.label = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS
-Button_A279CA88_EF8D_FD32_41C4_FF05BFEAD54D_mobile.label = SALA DE JOGOS
+Button_325417C8_204F_7496_41C0_16CD315E64C6_mobile.label = REFEITORIO
+Button_F1BDB6FF_ED8E_92CE_41E2_832CA14831E4_mobile.label = SALA ANOS FINAIS
+Button_F1BDB6FF_ED8E_92CE_41E2_832CA14831E4.label = SALA ANOS FINAIS
+Button_F132B604_ED8B_9532_41DC_01F6B28E0060.label = SALA ANOS INICIAIS 01
+Button_F132B604_ED8B_9532_41DC_01F6B28E0060_mobile.label = SALA ANOS INICIAIS 01
+Button_54CE2898_0115_4174_4169_D009FB6272CA.label = SALA ANOS INICIAIS 02
+Button_54CE2898_0115_4174_4169_D009FB6272CA_mobile.label = SALA ANOS INICIAIS 02
+Button_1A1D93DC_0810_5BCA_417F_1076F75F2902_mobile.label = SALA DE AULAS ESPECIAIS
+Button_1A1D93DC_0810_5BCA_417F_1076F75F2902.label = SALA DE AULAS ESPECIAIS
+Button_F125B536_ED8D_F75F_41D3_0A4161F01E1F_mobile.label = SALA DE JOGOS
 Button_F125B536_ED8D_F75F_41D3_0A4161F01E1F.label = SALA DE JOGOS
-Button_A453AAA2_EF85_BD76_41D2_8388AF5E7343_mobile.label = SALAS DE REFERÊNCIA EDUCAÇÃO INFANTIL
-Button_F132B604_ED8B_9532_41DC_01F6B28E0060.label = SALAS DE REFERÊNCIA EDUCAÇÃO INFANTIL
+Button_F1ACF583_ED8E_9736_41B9_89E46CB0677F.label = SALA ED. INFANTIL 1
+Button_F1ACF583_ED8E_9736_41B9_89E46CB0677F_mobile.label = SALA ED. INFANTIL 1
+Button_3272D2CC_204D_6CAE_4165_DB632ECFC074.label = SALA ED. INFANTIL 2
+Button_3272D2CC_204D_6CAE_4165_DB632ECFC074_mobile.label = SALA ED. INFANTIL 2
+Button_6DEFA347_0177_47DB_416E_17195CD899A2_mobile.label = SALA ED. INFANTIL 3
+Button_6DEFA347_0177_47DB_416E_17195CD899A2.label = SALA ED. INFANTIL 3
+Button_17CD9B91_07F0_B45B_419F_7D66AB8C772F.label = VILA DOS FILHOTES
+Button_17CD9B91_07F0_B45B_419F_7D66AB8C772F_mobile.label = VILA DOS FILHOTES
 
 ### Image
-Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_pt.jpg
-Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_pt.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_pt.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_pt.png
+Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063_mobile.url = skin/Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063_mobile_pt.gif
 Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063.url = skin/Image_84B808AF_A3FE_B0B9_41E2_F2B7F5553063_pt.gif
-Image_851E801C_A3F3_CF9E_41E2_33B56EE2FB93.url = skin/Image_851E801C_A3F3_CF9E_41E2_33B56EE2FB93_pt.gif
-Image_B0B570CA_A3B1_D0F8_41CC_F04064005DCF.url = skin/Image_B0B570CA_A3B1_D0F8_41CC_F04064005DCF_pt.gif
+Image_B67C639F_A3AE_5099_41DE_45F11909F89C_mobile.url = skin/Image_B67C639F_A3AE_5099_41DE_45F11909F89C_mobile_pt.gif
 Image_B67C639F_A3AE_5099_41DE_45F11909F89C.url = skin/Image_B67C639F_A3AE_5099_41DE_45F11909F89C_pt.gif
 Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6.url = skin/Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6_pt.png
 
