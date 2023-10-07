@@ -1,9 +1,9 @@
 {
  "start_url": "index.htm",
- "background_color": "#00FFFF",
  "name": "ESCOLA NOVA GERAÇÃO",
  "theme_color": "#00FFFF",
  "display": "fullscreen",
+ "background_color": "#00FFFF",
  "icons": [
   {
    "type": "image/png",
