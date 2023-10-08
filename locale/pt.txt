@@ -3,8 +3,8 @@
 ## Action
 
 ### URL
-LinkBehaviour_12AD0809_0830_544A_417E_D628200B98DD.source = https://www.instagram.com/gmais360tour/
 LinkBehaviour_B5A6621C_9F49_8F45_41C1_FE8A75A89949.source = https://www.instagram.com/gmais360tour/
+LinkBehaviour_12AD0809_0830_544A_417E_D628200B98DD.source = https://www.instagram.com/gmais360tour/
 
 ## Hotspot
 
@@ -58,10 +58,10 @@ HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAI
 HotspotPanoramaOverlayTextImage_7C52063F_EE85_954E_41E6_D6BBB9D31BEC.text = QUADRA
 HotspotPanoramaOverlayTextImage_FED80AFD_DD51_B908_41E5_7E0E057EE82F.text = QUADRA 01
 HotspotPanoramaOverlayTextImage_4514F6ED_0114_CEAC_415E_01D200AC042E.text = QUADRA 02
-HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
-HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
 HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUINTAL \
@@ -76,20 +76,23 @@ HotspotPanoramaOverlayTextImage_C37A8C0F_DD53_9908_41D8_1B8B7F3DB345.text = REFE
 HotspotPanoramaOverlayTextImage_F6BE7A6C_E1AC_14A0_41E6_3248F78938FF.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS FINAIS \
  \
 As salas têm um excelente espaço, mesas sextavadas, que permitem o trabalho em grupo ou individual, de acordo com a proposta pedagógica dos professores.
-HotspotPanoramaOverlayTextImage_F3983451_E1EC_1CE0_41C3_8D8530DB76D6.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
- \
-Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
 HotspotPanoramaOverlayTextImage_F61F311D_E1EC_7460_4196_26C7A3D82271.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
 Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
+HotspotPanoramaOverlayTextImage_F3983451_E1EC_1CE0_41C3_8D8530DB76D6.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
+ \
+Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
+HotspotPanoramaOverlayTextImage_0482E665_1115_693A_41A2_8FAFCEF20276.text = SALA DE AULAS ESPECIAS \
+ \
+As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
 HotspotPanoramaOverlayTextImage_3366A7FD_010D_CEAC_4165_DDE7B40C48E0.text = SALA DE AULAS ESPECIAS \
  \
 As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
+HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
+Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_C170473B_DD50_9708_41D9_9969AD429310.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_F5BA673C_DDB0_B70F_41E8_AA6EA6A0595B.text = SALA DE JOGOS \
-Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
-HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_15393B70_0117_47B5_415E_67EA678CC140.text = SALA DE REFERÊNCIA EDUCAÇÃO INFANTIL \
 Nossas salas de referência da Educação Infantil são organizadas em microambientes para que as crianças desenvolvam autonomia e autoconfiança ao transitarem pelo espaço. Essa abordagem respeita o ritmo de cada criança e valoriza suas escolhas, permitindo que elas façam suas próprias descobertas e desenvolvam suas habilidades de tomada de decisão num ambiente seguro, acolhedor e rico em possibilidades.
@@ -115,6 +118,7 @@ audiores_3407A065_0870_54FB_4188_1473AC84A201.mp3Url = media/audio_30D8BD9A_0870
 audiores_8E37C908_EF9A_9F32_41A6_338950F933B0.mp3Url = media/audio_8FFA75AC_EF9B_9772_41D1_D93D71A873E1_pt.mp3
 
 ### Image
+imlevel_0AAF95C0_110D_2B7A_419E_BCCA725233F8.url = media/panorama_012674BD_111C_E905_41A5_C1080A2E91A3_HS_vdhak0gd_pt.png
 imlevel_CB7A7CB5_ED8E_9552_41E5_237F02CEAF5A.url = media/panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D_HS_3m2i04is_pt.png
 imlevel_2B41BA5A_080F_B4CE_419D_E86B85C5A422.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_ybid3mqt_pt.png
 imlevel_CD600639_ED8E_B552_41D2_2B6FC29519CB.url = media/panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4_HS_ihvidvcl_pt.png
@@ -235,6 +239,7 @@ panorama_FF577FB4_DD71_9718_41D8_4194694872B0.label = SAIDA DOS CARROS
 panorama_F43F2880_DD51_B9F8_41CB_92B7C4C4E0F8.label = SALA ANOS FINAIS
 panorama_0BBD2DBA_2A86_CD9E_41C4_CD229B1E63ED.label = SALA ANOS INICIAIS 1
 panorama_F43BF2BC_DD51_8908_41E7_13919A94BEE3.label = SALA ANOS INICIAIS 2
+panorama_012674BD_111C_E905_41A5_C1080A2E91A3.label = SALA DE AULAS ESPECIAS
 panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94.label = SALA DE JOGOS
 panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C.label = SALA ED. INFANTIL 1
 panorama_0BB9A437_2A86_7297_41AE_8BD5B2E3E8E2.label = SALA ED. INFANTIL 2
@@ -322,4 +327,4 @@ Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6.url = skin/Image_BB6586B7_A391_D0AA_4
 ### Description
 
 ### Title
-tour.name = ESCOLA NOVA GERAÇÃO
+tour.name = SALA DE AULAS ESPECIAS
