@@ -327,4 +327,4 @@ Image_BB6586B7_A391_D0AA_41E2_DF668E1007F6.url = skin/Image_BB6586B7_A391_D0AA_4
 ### Description
 
 ### Title
-tour.name = SALA DE AULAS ESPECIAS
+tour.name = TOUR VIRTUAL ESCOLA NOVA GERAÇÃO
