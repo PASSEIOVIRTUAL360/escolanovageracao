@@ -1,7 +1,9 @@
 {
- "display": "fullscreen",
- "name": "TOUR VIRTUAL ESCOLA NOVA GERAÇÃO",
+ "theme_color": "#00FFFF",
+ "background_color": "#00FFFF",
  "start_url": "index.htm",
+ "name": "TOUR VIRTUAL ESCOLA NOVA GERAÇÃO",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +40,5 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ],
- "theme_color": "#00FFFF",
- "background_color": "#00FFFF"
+ ]
 }

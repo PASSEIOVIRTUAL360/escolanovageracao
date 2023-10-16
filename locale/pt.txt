@@ -15,16 +15,15 @@ A graminha é um espaço coberto, pertinho das salas, que permite que as crianç
 HotspotPanoramaOverlayTextImage_F3FF9E94_DD53_F918_41D6_27495B23CC59.text =  \
 PRAIA  \
 Que delícia sentir a praia pertinho da gente... As crianças se desenvolvem em contato com a areia, estimulando diferentes sentidos, experienciando texturas, temperaturas, cores e formas. Para os mais radicais, a tirolesa é um convite a sentir o ventinho no rosto.
-HotspotPanoramaOverlayTextImage_C0BC8B89_DD51_9F09_41E5_82669D02A06B.text = AREA EXTERNA
 HotspotPanoramaOverlayTextImage_D42CA5B6_C4D1_0625_41E6_1FFFC691710D.text = BIBLIOTECA EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
  Ao visitarem a biblioteca semanalmente, as crianças têm a chance de se envolverem com diferentes livros e histórias, seja de forma individual ou em grupos. Esse contato frequente com a leitura contribui para o desenvolvimento da linguagem, da imaginação e do gosto pela leitura desde cedo. O fato de também poderem emprestar livros para lerem em casa é um incentivo adicional para a prática da leitura fora do ambiente escolar. Essa prática possibilita que a leitura se estenda para além das salas de aula, transformando-se em um hábito saudável e enriquecedor para as crianças.
 HotspotPanoramaOverlayTextImage_C3F5F4F8_DD71_8917_41D2_2B4C2ADB7065.text = BLIBIOTECA ENSINO FUNDAMENTAL ANOS FINAIS \
  \
 A biblioteca conta com um acervo grande, próprio para essa faixa etária e os alunos podem emprestar livros sempre que quiserem.
+HotspotPanoramaOverlayTextImage_887F2496_EF8A_F55E_41DD_4E7B88A098A6.text = BOSQUE DO TIO DIRCEU
 HotspotPanoramaOverlayTextImage_60FFA90E_EE87_7F4E_41E7_273AB98D2822.text = BOSQUE DO TIO DIRCEU
 HotspotPanoramaOverlayTextImage_F18CDC39_DD50_9908_41B4_E09D50048390.text = BOSQUE DO TIO DIRCEU
-HotspotPanoramaOverlayTextImage_887F2496_EF8A_F55E_41DD_4E7B88A098A6.text = BOSQUE DO TIO DIRCEU
 HotspotPanoramaOverlayTextImage_C78770D1_DD50_8919_41BA_B57C1A487715.text = BOSQUE DO TIO OSMAR \
  Que tal dirigir um caminhão?! Ou melhor ainda, entrar na aventura de subir na carroceria dele e espiar quem está dirigindo? Há também quem prefira imitar um pirata e subir em um mirante para olhar lá de cima e planejar as próximas brincadeiras. O Bosque é lugar de imaginar e desafiar o corpo nas mais diversas atividades.
 HotspotPanoramaOverlayTextImage_CD265B7F_DCB0_7F09_41CC_73955D0C8C07.text = BRINQUEDÃO: \
@@ -35,7 +34,7 @@ HotspotPanoramaOverlayTextImage_2E258E9A_3F14_46B4_41A9_BB86AD96EFB4.text = CINE
 utilizamos o minicinema de forma estratégica, como suporte audiovisual em projetos específicos. Essa abordagem mostra um olhar cuidadoso para as necessidades e interesses das crianças, garantindo que a tecnologia seja utilizada de maneira consciente e significativa. Ao optarmos por não utilizar a televisão como passatempo, reforçamos o compromisso em promover um ambiente educacional que valoriza o desenvolvimento integral das crianças. \
  \
 
-HotspotPanoramaOverlayTextImage_F4FEBF37_DDB7_B718_41E4_448F3B53C582.text = Fique a vontade \
+HotspotPanoramaOverlayTextImage_F4FEBF37_DDB7_B718_41E4_448F3B53C582.text = Fique à vontade \
  para conhecer nossa escola! \
 Tenha um bom passeio virtual!
 HotspotPanoramaOverlayTextImage_C1074FAB_F7FF_993D_4191_2F5EB1DF014B.text = HOP AROUND ROOM: \
@@ -52,16 +51,17 @@ O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia
 HotspotPanoramaOverlayTextImage_FFE77FD4_ED8E_92D2_41E9_FF12B9641FF6.text = PARQUE DA FRENTE \
  \
 A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
+HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAIA
 HotspotPanoramaOverlayTextImage_60D5E2BD_EE87_8D52_41E4_6F51568484B1.text = PRAIA
 HotspotPanoramaOverlayTextImage_68EED0B2_EE8B_8D56_419A_13DAAE6996C9.text = PRAIA
-HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAIA
 HotspotPanoramaOverlayTextImage_7C52063F_EE85_954E_41E6_D6BBB9D31BEC.text = QUADRA
 HotspotPanoramaOverlayTextImage_FED80AFD_DD51_B908_41E5_7E0E057EE82F.text = QUADRA 01
 HotspotPanoramaOverlayTextImage_4514F6ED_0114_CEAC_415E_01D200AC042E.text = QUADRA 02
-HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_C0BC8B89_DD51_9F09_41E5_82669D02A06B.text = QUADRA 03
+HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
-HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
 HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUINTAL \
@@ -88,9 +88,8 @@ As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explora
 HotspotPanoramaOverlayTextImage_3366A7FD_010D_CEAC_4165_DDE7B40C48E0.text = SALA DE AULAS ESPECIAS \
  \
 As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
+HotspotPanoramaOverlayTextImage_22AF1DFF_3B14_52CB_41C3_CDE00EE57535.text = SALA DE JOGOS
 HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
-Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
-HotspotPanoramaOverlayTextImage_C170473B_DD50_9708_41D9_9969AD429310.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_F5BA673C_DDB0_B70F_41E8_AA6EA6A0595B.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
@@ -128,12 +127,12 @@ imlevel_FE87AD7F_EF17_4B3F_41C5_9E3B22CA6DA9.url = media/panorama_0BA8C568_2A82_
 imlevel_CD5C79E3_ED8E_BEF6_41B1_4DF8ADE4DF7F.url = media/panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF_HS_mfzph3oe_pt.png
 imlevel_2CDE78EF_080F_B5C6_4199_A2CC33DD3069.url = media/panorama_0BA9F137_2A82_D296_41BB_C9FFD6248EFF_HS_utjiweig_pt.png
 imlevel_CD6B6267_ED8E_8DFE_41E6_95198DF354FE.url = media/panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94_HS_9ac6cym7_pt.png
-imlevel_CE62B574_ED8E_B7D2_41C0_1588CC692C72.url = media/panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94_HS_h5pytj8i_pt.png
+imlevel_2758267D_3B14_B1CF_41CC_FC6790DAD4A0.url = media/panorama_0BABE50C_2A85_B279_41BE_0A6E4B076A94_HS_h5pytj8i_pt.png
 imlevel_2F8F3813_080F_D45F_4198_E2C317C3A545.url = media/panorama_0BAD05CA_2A82_7DF9_41C1_D2C3C4FF227D_HS_52vh59oj_pt.png
-imlevel_CD2AEF7A_ED8E_B3D7_41E4_FB5CCACFE454.url = media/panorama_0BAE29F0_2A82_55AA_41B4_E4A3B936C14A_HS_1w2d4lg1_pt.png
+imlevel_275A75E5_3B14_B2FF_41AE_C61390498610.url = media/panorama_0BAE29F0_2A82_55AA_41B4_E4A3B936C14A_HS_uf2h6emo_pt.png
 imlevel_2B69C0EA_080F_B5C9_4181_4504B0B1542B.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_j63q34kt_pt.png
 imlevel_2E63EF79_080F_CCCA_419D_0AD8C5109AF8.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_kn7o15jj_pt.png
-imlevel_5E1CE865_F9B6_ADDC_41E9_85D5685DBA44.url = media/panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0_HS_a762htyj_pt.png
+imlevel_2195A43C_3B14_B14D_41CA_F649C9FFDE04.url = media/panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0_HS_a762htyj_pt.png
 imlevel_2C93E151_080F_D4DA_4181_BD1B4FC9A908.url = media/panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5_HS_r6joeoio_pt.png
 imlevel_CE76F022_ED8E_8D76_41DD_E11CE5E527C2.url = media/panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA_HS_t1r7u0m6_pt.png
 imlevel_CE17C642_ED8E_9537_41E2_7FCBBE10ECC8.url = media/panorama_0BB63BA6_2A86_55A9_4189_FD3D2276640C_HS_usv9a08e_pt.png
@@ -252,20 +251,20 @@ album_F572E194_DDB7_8B18_41E7_B173FE62A2EC.label = Álbum de Fotos 20230721_1116
 ### Button
 Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E.label = @gmais360tour
 Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E_mobile.label = @gmais360tour
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = BIBLI ED. INFANTIL/ ANOS INICIAIS
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLI. ED. INFANTIL/ ANOS INICIAIS
 Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7.label = BIBLIOTECA ANOS FINAIS
 Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7_mobile.label = BIBLIOTECA ANOS FINAIS
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLIOTECA ED. INFANTIL
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = BIBLIOTECA ED. INFANTIL
-Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA.label = BOSQUE DO TIO DIRCEU
 Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA_mobile.label = BOSQUE DO TIO DIRCEU
+Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA.label = BOSQUE DO TIO DIRCEU
 Button_282E6286_3F3C_3E9C_41B5_7D9831CA62DB.label = BOSQUE DO TIO OSMAR
 Button_282E6286_3F3C_3E9C_41B5_7D9831CA62DB_mobile.label = BOSQUE DO TIO OSMAR
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = BRINQUEDÃO
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = BRINQUEDÃO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3.label = CASA DO GEPPETO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3_mobile.label = CASA DO GEPPETO
-Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
 Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E_mobile.label = CINEMA
+Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375_mobile.label = GRAMINHA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375.label = GRAMINHA
 Button_F1A914C9_ED87_7532_41E0_658DDECF1CE0.label = HOP AROUND ROOM
@@ -274,8 +273,8 @@ Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0_mobile.label = LABORATÓRIO DE CIÊN
 Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0.label = LABORATÓRIO DE CIÊNCIAS
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
-Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
 Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
+Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
 Button_3264EC09_204D_5B96_4191_8B10500532EE_mobile.label = MINIFAZENDA
 Button_3264EC09_204D_5B96_4191_8B10500532EE.label = MINIFAZENDA
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = PARQUE DA FRENTE
