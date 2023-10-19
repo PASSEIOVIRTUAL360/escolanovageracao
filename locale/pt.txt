@@ -31,7 +31,7 @@ O brincar ao ar livre e em contato com a natureza é uma das características ma
 HotspotPanoramaOverlayTextImage_CCC2F2C9_DCB1_8908_41D2_DABE9C53E31B.text = CASA DO GEPPETO \
 Uma casa na árvore, carinhosamente apelidada pelas crianças com o nome do marceneiro mais conhecido das histórias infantis: Gepetto. Um espaço que, favorece a imaginação e coordenação motora dos nossos pequenos.
 HotspotPanoramaOverlayTextImage_2E258E9A_3F14_46B4_41A9_BB86AD96EFB4.text = CINEMA:  \
-utilizamos o minicinema de forma estratégica, como suporte audiovisual em projetos específicos. Essa abordagem mostra um olhar cuidadoso para as necessidades e interesses das crianças, garantindo que a tecnologia seja utilizada de maneira consciente e significativa. Ao optarmos por não utilizar a televisão como passatempo, reforçamos o compromisso em promover um ambiente educacional que valoriza o desenvolvimento integral das crianças. \
+Utilizamos o minicinema de forma estratégica, como suporte audiovisual em projetos específicos. Essa abordagem mostra um olhar cuidadoso para as necessidades e interesses das crianças, garantindo que a tecnologia seja utilizada de maneira consciente e significativa. Ao optarmos por não utilizar a televisão como passatempo, reforçamos o compromisso em promover um ambiente educacional que valoriza o desenvolvimento integral das crianças. \
  \
 
 HotspotPanoramaOverlayTextImage_F4FEBF37_DDB7_B718_41E4_448F3B53C582.text = Fique à vontade \
@@ -51,17 +51,16 @@ O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia
 HotspotPanoramaOverlayTextImage_FFE77FD4_ED8E_92D2_41E9_FF12B9641FF6.text = PARQUE DA FRENTE \
  \
 A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
-HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAIA
 HotspotPanoramaOverlayTextImage_60D5E2BD_EE87_8D52_41E4_6F51568484B1.text = PRAIA
 HotspotPanoramaOverlayTextImage_68EED0B2_EE8B_8D56_419A_13DAAE6996C9.text = PRAIA
+HotspotPanoramaOverlayTextImage_785CEF25_EE85_7372_41DC_12FB27DC294A.text = PRAIA
 HotspotPanoramaOverlayTextImage_7C52063F_EE85_954E_41E6_D6BBB9D31BEC.text = QUADRA
-HotspotPanoramaOverlayTextImage_FED80AFD_DD51_B908_41E5_7E0E057EE82F.text = QUADRA 01
 HotspotPanoramaOverlayTextImage_4514F6ED_0114_CEAC_415E_01D200AC042E.text = QUADRA 02
 HotspotPanoramaOverlayTextImage_C0BC8B89_DD51_9F09_41E5_82669D02A06B.text = QUADRA 03
-HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
-HotspotPanoramaOverlayTextImage_FE51B6C6_DD51_8978_41E6_A61FEC37E268.text = QUADRAS DE ESPORTES \
+HotspotPanoramaOverlayTextImage_40E3FCD9_0114_C2F6_4142_CC17CDAFBF04.text = QUADRAS DE ESPORTES \
  \
  Temos duas quadras de esporte, as quais são utilizadas para as aulas de Educação Física e outras atividades que envolvem corpo e movimento.
 HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUINTAL \
@@ -70,22 +69,23 @@ HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUIN
 
 HotspotPanoramaOverlayTextImage_F0E5F099_DCD0_8909_41E0_9F43A8055224.text = RECEPÇÃO CARLOS RAZERA \
  \
-A recepção é um lugar especial em nossa instituição, onde recebemos com carinho e atenção todas as crianças matriculadas no período integral e também aquelas que frequentam a Educação Infantil à tarde. Nossa equipe está sempre pronta para acolher os pequenos, proporcionando um ambiente acolhedor e seguro desde o início do dia. O momento da entrada é uma oportunidade para estabelecermos vínculos afetivos com cada criança, transmitindo confiança e conforto aos pais ou responsáveis.
+A recepção é um lugar muito especial em nossa instituição, onde recebemos com carinho e atenção todas famílias. \
+Nossa equipe esta sempre pronta para acolher todos os nossos alunos, pais e responsáveis. acolhedor e seguro desde o início do dia. O momento da entrada é uma oportunidade para estabelecermos vínculos afetivos com cada criança, transmitindo confiança e conforto aos pais ou responsáveis.
 HotspotPanoramaOverlayTextImage_C37A8C0F_DD53_9908_41D8_1B8B7F3DB345.text = REFEITÓRIO: \
  É o local onde os alunos fazem suas refeições diariamente. Uma alimentação adequada é fundamental para o crescimento, desenvolvimento e bem-estar das crianças e adolescentes. Ao oferecer uma dieta equilibrada, estamos contribuindo para que nossos estudantes tenham os nutrientes necessários para se desenvolverem de maneira saudável e atingirem seu pleno potencial.
 HotspotPanoramaOverlayTextImage_F6BE7A6C_E1AC_14A0_41E6_3248F78938FF.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS FINAIS \
  \
 As salas têm um excelente espaço, mesas sextavadas, que permitem o trabalho em grupo ou individual, de acordo com a proposta pedagógica dos professores.
-HotspotPanoramaOverlayTextImage_F61F311D_E1EC_7460_4196_26C7A3D82271.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
+QuadHotspotPanoramaOverlayTextImage_5C94EA5C_46B7_6B5F_41C9_60F5126BA921.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
 Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
 HotspotPanoramaOverlayTextImage_F3983451_E1EC_1CE0_41C3_8D8530DB76D6.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS INICIAIS \
  \
 Nossas salas de aula do 1º ao 5º ano são todas equipadas com datashow e ar-condicionado, as mesas são duplas ou sextavadas o que favorece o desenvolvimento da nossa abordagem que promove as trocas de experiência e o trabalho entre pares.
-HotspotPanoramaOverlayTextImage_0482E665_1115_693A_41A2_8FAFCEF20276.text = SALA DE AULAS ESPECIAS \
+HotspotPanoramaOverlayTextImage_3366A7FD_010D_CEAC_4165_DDE7B40C48E0.text = SALA DE AULAS ESPECIAS \
  \
 As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
-HotspotPanoramaOverlayTextImage_3366A7FD_010D_CEAC_4165_DDE7B40C48E0.text = SALA DE AULAS ESPECIAS \
+HotspotPanoramaOverlayTextImage_0482E665_1115_693A_41A2_8FAFCEF20276.text = SALA DE AULAS ESPECIAS \
  \
 As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
 HotspotPanoramaOverlayTextImage_22AF1DFF_3B14_52CB_41C3_CDE00EE57535.text = SALA DE JOGOS
@@ -134,7 +134,7 @@ imlevel_2B69C0EA_080F_B5C9_4181_4504B0B1542B.url = media/panorama_0BAFB034_2A82_
 imlevel_2E63EF79_080F_CCCA_419D_0AD8C5109AF8.url = media/panorama_0BAFB034_2A82_D2A9_41B7_ECEB73C2B9EB_HS_kn7o15jj_pt.png
 imlevel_2195A43C_3B14_B14D_41CA_F649C9FFDE04.url = media/panorama_0BB2BD46_2A86_D2E9_41C4_9621865A6FE0_HS_a762htyj_pt.png
 imlevel_2C93E151_080F_D4DA_4181_BD1B4FC9A908.url = media/panorama_0BB41A83_2A86_566F_41AD_9C1327AC31F5_HS_r6joeoio_pt.png
-imlevel_CE76F022_ED8E_8D76_41DD_E11CE5E527C2.url = media/panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA_HS_t1r7u0m6_pt.png
+imlevel_635D69FA_46B9_A95A_41D1_5C871ED63DBC.url = media/panorama_0BB5C4D5_2A87_B3EB_41A2_526FE59F0CEA_HS_t1r7u0m6_pt.png
 imlevel_CE17C642_ED8E_9537_41E2_7FCBBE10ECC8.url = media/panorama_0BB63BA6_2A86_55A9_4189_FD3D2276640C_HS_usv9a08e_pt.png
 imlevel_CB593B33_DCF0_7F1F_41E2_8410474AA052.url = media/panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1_HS_lqi62jsk_pt.png
 imlevel_CCAA57D4_ED8E_92D3_41D6_AAD8E8053CE0.url = media/panorama_0BB74510_2A86_726A_41A6_C0873EC99DD1_HS_q24f1hxc_pt.png
@@ -147,7 +147,7 @@ imlevel_CD543CAD_ED8E_B572_41E6_50F6A95A5BB1.url = media/panorama_0BBCE775_2A86_
 imlevel_CE0EF82C_ED8E_9D72_41D2_FE3EB5FFBCD0.url = media/panorama_0BBD2DBA_2A86_CD9E_41C4_CD229B1E63ED_HS_y9zb7qo8_pt.png
 imlevel_5AF78D96_F989_677D_41E1_57AA625EF2DF.url = media/panorama_0BBFA2B0_2A86_B7A9_41B9_F78E54EE00B7_HS_37hlvkic_pt.png
 imlevel_5D2156FE_F989_62AC_41D2_CE0EF56C6F5F.url = media/panorama_0BBFEDE3_2A86_4DAF_41B8_19D5316D767B_HS_i1f7p86a_pt.png
-imlevel_5C2D8F50_F9B6_A3F4_41ED_07138FD83DC3.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_tdylel35_pt.png
+imlevel_59EBF39A_46B9_59DA_41CC_4F361784C47E.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_tdylel35_pt.png
 imlevel_2B6F9271_080F_B4DA_4180_5FD44AC02574.url = media/panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C_HS_hqdafo5b_pt.png
 imlevel_2E95BF93_0BDB_6C68_41A2_0B4211A582AF.url = media/panorama_2987108F_0BDF_D478_41A7_1AAEC2081B86_HS_tzic2lzf_pt.png
 imlevel_2B01E7FA_0870_5BCE_419F_5327C85E1B15.url = media/panorama_33449D14_0134_C37C_4171_73561842FCB4_HS_22edacud_pt.png
@@ -156,11 +156,10 @@ imlevel_2E5CC6BF_080F_BC46_4165_84DC9ECC0EC8.url = media/panorama_D2DD1FD3_F89A_
 imlevel_5ADCA52A_F989_6754_41EB_BDDFEB064617.url = media/panorama_D2DD1FD3_F89A_A2FB_41D7_8E197055AD78_HS_6fxtrsr8_pt.png
 imlevel_5ADE5607_F989_655C_41E1_A2B0548479D6.url = media/panorama_D3647020_F89F_7D54_41BF_3EB55089DCF5_HS_maq628cb_pt.png
 imlevel_2B40D99D_080F_B44A_4182_BF4A62ACEC80.url = media/panorama_D3647020_F89F_7D54_41BF_3EB55089DCF5_HS_mmehuojd_pt.png
-imlevel_CB1614FD_ED8E_96D2_41D5_F082BD1A729E.url = media/panorama_F43BF2BC_DD51_8908_41E7_13919A94BEE3_HS_ey8ehgi3_pt.png
+imlevel_6CC06702_46B9_BAAB_41C4_6991890B38CB.url = media/panorama_F43BF2BC_DD51_8908_41E7_13919A94BEE3_HS_0ubk0je7_pt.png
 imlevel_5AB66C9D_F9B6_A56C_41CB_CDB9E0BCC5BC.url = media/panorama_F43ECEDA_DD51_F908_41C5_8269104C751A_HS_mastf4xe_pt.png
 imlevel_CE06EBA6_ED8E_937F_41C4_E5C43A6558BF.url = media/panorama_F43F2880_DD51_B9F8_41CB_92B7C4C4E0F8_HS_9ymur1cc_pt.png
 imlevel_2B69C137_080F_B446_416D_5013F6E9A214.url = media/panorama_FF37C202_DD70_88F8_41EA_2A2DD937144C_HS_q7us2te7_pt.png
-imlevel_CE23B270_ED8E_8DD2_41DC_92378CF483C0.url = media/panorama_FF37C202_DD70_88F8_41EA_2A2DD937144C_HS_rj1vgrzx_pt.png
 imlevel_C5C91FF7_DCF0_7718_41D3_8A30C5B36D92.url = media/popup_CF1423BB_DCF0_8F08_41E3_4B8E4C07BFF3_pt_0_0.jpg
 imlevel_C5C9FFF7_DCF0_7718_41E6_FF774394A02E.url = media/popup_CF1423BB_DCF0_8F08_41E3_4B8E4C07BFF3_pt_0_1.jpg
 imlevel_C5C9EFF7_DCF0_7718_41E3_7EC15FF76D02.url = media/popup_CF1423BB_DCF0_8F08_41E3_4B8E4C07BFF3_pt_0_2.jpg
@@ -251,8 +250,8 @@ album_F572E194_DDB7_8B18_41E7_B173FE62A2EC.label = Álbum de Fotos 20230721_1116
 ### Button
 Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E.label = @gmais360tour
 Button_8AFBFF99_9F77_B54F_4188_A6632EAFB75E_mobile.label = @gmais360tour
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = BIBLI ED. INFANTIL/ ANOS INICIAIS
-Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBLI. ED. INFANTIL/ ANOS INICIAIS
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = BIBL ED. INFANTIL/ ANOS INICIAIS
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = BIBL. ED. INFANTIL/ ANOS INICIAIS
 Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7.label = BIBLIOTECA ANOS FINAIS
 Button_5ABF4A59_0117_C1F4_4173_4C1E06E688B7_mobile.label = BIBLIOTECA ANOS FINAIS
 Button_F64E7998_ED8A_BF53_41E6_56ADDA20F8EA_mobile.label = BOSQUE DO TIO DIRCEU
@@ -263,8 +262,8 @@ Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = BRINQUEDÃO
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = BRINQUEDÃO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3.label = CASA DO GEPPETO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3_mobile.label = CASA DO GEPPETO
-Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E_mobile.label = CINEMA
 Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
+Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E_mobile.label = CINEMA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375_mobile.label = GRAMINHA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375.label = GRAMINHA
 Button_F1A914C9_ED87_7532_41E0_658DDECF1CE0.label = HOP AROUND ROOM
@@ -273,8 +272,8 @@ Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0_mobile.label = LABORATÓRIO DE CIÊN
 Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0.label = LABORATÓRIO DE CIÊNCIAS
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
-Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
 Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
+Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
 Button_3264EC09_204D_5B96_4191_8B10500532EE_mobile.label = MINIFAZENDA
 Button_3264EC09_204D_5B96_4191_8B10500532EE.label = MINIFAZENDA
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = PARQUE DA FRENTE
@@ -291,8 +290,8 @@ Button_F646DAEB_ED8E_92F6_4190_F290EFA058CA_mobile.label = QUINTAL
 Button_F646DAEB_ED8E_92F6_4190_F290EFA058CA.label = QUINTAL
 Button_1776C413_07F0_7C5E_4198_F01979AEE951.label = RECEPÇÃO CARLOS RAZERA
 Button_1776C413_07F0_7C5E_4198_F01979AEE951_mobile.label = RECEPÇÃO CARLOS RAZERA
-Button_325417C8_204F_7496_41C0_16CD315E64C6.label = REFEITORIO
-Button_325417C8_204F_7496_41C0_16CD315E64C6_mobile.label = REFEITORIO
+Button_325417C8_204F_7496_41C0_16CD315E64C6.label = REFEITÓRIO
+Button_325417C8_204F_7496_41C0_16CD315E64C6_mobile.label = REFEITÓRIO
 Button_F1BDB6FF_ED8E_92CE_41E2_832CA14831E4_mobile.label = SALA ANOS FINAIS
 Button_F1BDB6FF_ED8E_92CE_41E2_832CA14831E4.label = SALA ANOS FINAIS
 Button_F132B604_ED8B_9532_41DC_01F6B28E0060.label = SALA ANOS INICIAIS 01
