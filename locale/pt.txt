@@ -3,8 +3,8 @@
 ## Action
 
 ### URL
-LinkBehaviour_B5A6621C_9F49_8F45_41C1_FE8A75A89949.source = https://www.instagram.com/gmais360tour/
 LinkBehaviour_12AD0809_0830_544A_417E_D628200B98DD.source = https://www.instagram.com/gmais360tour/
+LinkBehaviour_B5A6621C_9F49_8F45_41C1_FE8A75A89949.source = https://www.instagram.com/gmais360tour/
 
 ## Hotspot
 
@@ -70,7 +70,7 @@ HotspotPanoramaOverlayTextImage_C7BB7158_DD51_8B17_41E5_E542A8CF86C8.text = QUIN
 HotspotPanoramaOverlayTextImage_F0E5F099_DCD0_8909_41E0_9F43A8055224.text = RECEPÇÃO CARLOS RAZERA \
  \
 A recepção é um lugar muito especial em nossa instituição, onde recebemos com carinho e atenção todas famílias. \
-Nossa equipe esta sempre pronta para acolher todos os nossos alunos, pais e responsáveis. acolhedor e seguro desde o início do dia. O momento da entrada é uma oportunidade para estabelecermos vínculos afetivos com cada criança, transmitindo confiança e conforto aos pais ou responsáveis.
+Nossa equipe esta sempre pronta para acolher todos os nossos alunos, pais e responsáveis. 
 HotspotPanoramaOverlayTextImage_C37A8C0F_DD53_9908_41D8_1B8B7F3DB345.text = REFEITÓRIO: \
  É o local onde os alunos fazem suas refeições diariamente. Uma alimentação adequada é fundamental para o crescimento, desenvolvimento e bem-estar das crianças e adolescentes. Ao oferecer uma dieta equilibrada, estamos contribuindo para que nossos estudantes tenham os nutrientes necessários para se desenvolverem de maneira saudável e atingirem seu pleno potencial.
 HotspotPanoramaOverlayTextImage_F6BE7A6C_E1AC_14A0_41E6_3248F78938FF.text = SALA DE AULA ENSINO FUNDAMENTAL ANOS FINAIS \
@@ -147,7 +147,7 @@ imlevel_CD543CAD_ED8E_B572_41E6_50F6A95A5BB1.url = media/panorama_0BBCE775_2A86_
 imlevel_CE0EF82C_ED8E_9D72_41D2_FE3EB5FFBCD0.url = media/panorama_0BBD2DBA_2A86_CD9E_41C4_CD229B1E63ED_HS_y9zb7qo8_pt.png
 imlevel_5AF78D96_F989_677D_41E1_57AA625EF2DF.url = media/panorama_0BBFA2B0_2A86_B7A9_41B9_F78E54EE00B7_HS_37hlvkic_pt.png
 imlevel_5D2156FE_F989_62AC_41D2_CE0EF56C6F5F.url = media/panorama_0BBFEDE3_2A86_4DAF_41B8_19D5316D767B_HS_i1f7p86a_pt.png
-imlevel_59EBF39A_46B9_59DA_41CC_4F361784C47E.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_tdylel35_pt.png
+imlevel_5ABCCF76_4930_CBE6_4198_E25FA0FED6EF.url = media/panorama_0BD44E28_2A83_CEBA_4198_F9CDB2699F90_HS_tdylel35_pt.png
 imlevel_2B6F9271_080F_B4DA_4180_5FD44AC02574.url = media/panorama_0BD4B2A7_2A82_57B7_41A3_CD621B742D7C_HS_hqdafo5b_pt.png
 imlevel_2E95BF93_0BDB_6C68_41A2_0B4211A582AF.url = media/panorama_2987108F_0BDF_D478_41A7_1AAEC2081B86_HS_tzic2lzf_pt.png
 imlevel_2B01E7FA_0870_5BCE_419F_5327C85E1B15.url = media/panorama_33449D14_0134_C37C_4171_73561842FCB4_HS_22edacud_pt.png
