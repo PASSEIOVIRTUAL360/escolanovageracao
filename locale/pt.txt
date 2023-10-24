@@ -45,7 +45,7 @@ HotspotPanoramaOverlayTextImage_2C52BAEE_3F2C_CE6D_41C0_8A620CB62464.text = MINI
  Esse espaço proporciona às crianças uma experiência valiosa ao aprenderem sobre normas de trânsito e princípios de cidadania de uma forma lúdica e envolvente. Permitir que as crianças da Educação infantil transitem com suas bicicletas e motocas na minicidade favorece o desenvolvimento físico e motor, além de promover a independência e a autonomia ao se locomoverem de forma segura dentro desse ambiente planejado. A minicidade oferece uma oportunidade única para as crianças vivenciarem diferentes papéis sociais ao assumirem personagens em suas brincadeiras
 HotspotPanoramaOverlayTextImage_F01F2054_DF51_891F_41E7_A6A07D08215E.text = MINIFAZENDA \
  A experiência de conviver com outros seres vivos, especialmente os animais, é saudável e fundamental para o desenvolvimento das crianças. Essa interação proporciona benefícios emocionais, educacionais e terapêuticos que contribuem para o crescimento integral dos alunos. Além disso, estar próximo a animais possibilita que as crianças ampliem seus conhecimentos sobre o mundo natural. Observar o comportamento dos animais, aprender sobre suas características e necessidades, e até mesmo cuidar deles são experiências educacionais valiosas.
-HotspotPanoramaOverlayTextImage_304A6196_0134_C37C_4168_A13E4CBED8A4.text = O LABORATÓRIO \
+QuadHotspotPanoramaOverlayTextImage_4D0FCFF7_5F81_9721_41B7_32D57639D386.text = O LABORATÓRIO DE CIÊNCIAS \
  \
 O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia, comportamento e curiosidades dos animais, visualizando as estruturas no microscópio e animais que possuímos no laboratório. As misturas químicas e suas reações através de experiências de reagentes em tubos de ensaio feito especialmente para eles  e ensinar nossas crianças a respeitar e preservar o meio ambiente e o futuro do planeta.
 HotspotPanoramaOverlayTextImage_FFE77FD4_ED8E_92D2_41E9_FF12B9641FF6.text = PARQUE DA FRENTE \
@@ -119,7 +119,7 @@ audiores_8E37C908_EF9A_9F32_41A6_338950F933B0.mp3Url = media/audio_8FFA75AC_EF9B
 ### Image
 imlevel_0AAF95C0_110D_2B7A_419E_BCCA725233F8.url = media/panorama_012674BD_111C_E905_41A5_C1080A2E91A3_HS_vdhak0gd_pt.png
 imlevel_CB7A7CB5_ED8E_9552_41E5_237F02CEAF5A.url = media/panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D_HS_3m2i04is_pt.png
-imlevel_2B41BA5A_080F_B4CE_419D_E86B85C5A422.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_ybid3mqt_pt.png
+imlevel_4DA0D688_5FFF_89E0_41A6_5244353AEB46.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_l0ji3mna_pt.png
 imlevel_CD600639_ED8E_B552_41D2_2B6FC29519CB.url = media/panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4_HS_ihvidvcl_pt.png
 imlevel_FE98FCFD_EF17_4943_41D0_92DD777F1409.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_16k35jda_pt.png
 imlevel_FE869D42_EF17_4B41_41E0_700E73D5A538.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_bo7bh4dh_pt.png
@@ -262,8 +262,8 @@ Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = BRINQUEDÃO
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = BRINQUEDÃO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3.label = CASA DO GEPPETO
 Button_083C1A33_07F0_545E_4183_C2D47D468EC3_mobile.label = CASA DO GEPPETO
-Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
 Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E_mobile.label = CINEMA
+Button_3ED8A96D_28D7_F1FD_41C2_7A9FF8FA841E.label = CINEMA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375_mobile.label = GRAMINHA
 Button_F629BEA9_ED85_9572_41D8_04DBAEE69375.label = GRAMINHA
 Button_F1A914C9_ED87_7532_41E0_658DDECF1CE0.label = HOP AROUND ROOM
@@ -272,8 +272,8 @@ Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0_mobile.label = LABORATÓRIO DE CIÊN
 Button_F640D407_ED8E_953E_41E6_7F13C0CD5EC0.label = LABORATÓRIO DE CIÊNCIAS
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
-Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
 Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1.label = MINICIDADE
+Button_33C3C61A_204D_57AB_41B5_A4F8EEDAEAA1_mobile.label = MINICIDADE
 Button_3264EC09_204D_5B96_4191_8B10500532EE_mobile.label = MINIFAZENDA
 Button_3264EC09_204D_5B96_4191_8B10500532EE.label = MINIFAZENDA
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = PARQUE DA FRENTE
