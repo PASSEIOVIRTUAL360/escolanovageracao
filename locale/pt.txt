@@ -40,14 +40,14 @@ Tenha um bom passeio virtual!
 HotspotPanoramaOverlayTextImage_C1074FAB_F7FF_993D_4191_2F5EB1DF014B.text = HOP AROUND ROOM: \
  \
  Essa salinha especial pode ser usada das mais diferentes formas. Cheia de tecidos e vira um desafio de esconde-esconde. Com caixas de papelão surgem cidades e castelos. Tintas e mais tintas e podemos ver quais marcas as cores deixam em nosso corpo.
+QuadHotspotPanoramaOverlayTextImage_4D0FCFF7_5F81_9721_41B7_32D57639D386.text = LABORATÓRIO DE CIÊNCIAS \
+ \
+O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia, comportamento e curiosidades dos animais, visualizando as estruturas no microscópio e animais que possuímos no laboratório. As misturas químicas e suas reações através de experiências de reagentes em tubos de ensaio feito especialmente para eles  e ensinar nossas crianças a respeitar e preservar o meio ambiente e o futuro do planeta.
 HotspotPanoramaOverlayTextImage_7EDBA2D4_EE9B_92D3_41C8_31A955CD692E.text = MINICIDADE
 HotspotPanoramaOverlayTextImage_2C52BAEE_3F2C_CE6D_41C0_8A620CB62464.text = MINICIDADE: \
  Esse espaço proporciona às crianças uma experiência valiosa ao aprenderem sobre normas de trânsito e princípios de cidadania de uma forma lúdica e envolvente. Permitir que as crianças da Educação infantil transitem com suas bicicletas e motocas na minicidade favorece o desenvolvimento físico e motor, além de promover a independência e a autonomia ao se locomoverem de forma segura dentro desse ambiente planejado. A minicidade oferece uma oportunidade única para as crianças vivenciarem diferentes papéis sociais ao assumirem personagens em suas brincadeiras
 HotspotPanoramaOverlayTextImage_F01F2054_DF51_891F_41E7_A6A07D08215E.text = MINIFAZENDA \
  A experiência de conviver com outros seres vivos, especialmente os animais, é saudável e fundamental para o desenvolvimento das crianças. Essa interação proporciona benefícios emocionais, educacionais e terapêuticos que contribuem para o crescimento integral dos alunos. Além disso, estar próximo a animais possibilita que as crianças ampliem seus conhecimentos sobre o mundo natural. Observar o comportamento dos animais, aprender sobre suas características e necessidades, e até mesmo cuidar deles são experiências educacionais valiosas.
-QuadHotspotPanoramaOverlayTextImage_4D0FCFF7_5F81_9721_41B7_32D57639D386.text = O LABORATÓRIO DE CIÊNCIAS \
- \
-O objetivo do laboratório de ciências é ensinar na prática  sobre a biologia, comportamento e curiosidades dos animais, visualizando as estruturas no microscópio e animais que possuímos no laboratório. As misturas químicas e suas reações através de experiências de reagentes em tubos de ensaio feito especialmente para eles  e ensinar nossas crianças a respeitar e preservar o meio ambiente e o futuro do planeta.
 HotspotPanoramaOverlayTextImage_FFE77FD4_ED8E_92D2_41E9_FF12B9641FF6.text = PARQUE DA FRENTE \
  \
 A Nova Geração valoriza o contato das crianças com a natureza. Essa abordagem é extremamente enriquecedora para o desenvolvimento infantil, oferecendo aos alunos de todas as idades oportunidades valiosas de interação com o ambiente natural. Ao proporcionar o uso dos parques em horários diferenciados e de diferentes maneiras, permitimos que as crianças explorem a natureza de forma autêntica e significativa. O espaço amplo possibilita atividades diversas, como correr, subir em árvores, escalar os brinquedos e brincar de faz de conta nas casinhas.
@@ -89,9 +89,9 @@ HotspotPanoramaOverlayTextImage_0482E665_1115_693A_41A2_8FAFCEF20276.text = SALA
  \
 As aulas especiais proporcionam aos alunos a oportunidade de encontrar e explorar outras linguagens para se expressar, além de desenvolver aptidões e aprofundar em seus interesses. As aulas extracurriculares expandem o leque de possibilidades educacionais, permitindo que as crianças descubram talentos e habilidades em diversas áreas.
 HotspotPanoramaOverlayTextImage_22AF1DFF_3B14_52CB_41C3_CDE00EE57535.text = SALA DE JOGOS
-HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
-Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_F5BA673C_DDB0_B70F_41E8_AA6EA6A0595B.text = SALA DE JOGOS \
+Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
+HotspotPanoramaOverlayTextImage_C004A7F5_DD51_F719_41D2_86990193DF76.text = SALA DE JOGOS \
 Este ambiente conta com mesas de ping-pong, pebolim, jogos de tabuleiro diversos, quadra de jogos e espaço externo com gazebo para os momentos livres dos Anos Finais. Além disso, acontece neste local palestras e apresentações às famílias e colaboradores. 
 HotspotPanoramaOverlayTextImage_15393B70_0117_47B5_415E_67EA678CC140.text = SALA DE REFERÊNCIA EDUCAÇÃO INFANTIL \
 Nossas salas de referência da Educação Infantil são organizadas em microambientes para que as crianças desenvolvam autonomia e autoconfiança ao transitarem pelo espaço. Essa abordagem respeita o ritmo de cada criança e valoriza suas escolhas, permitindo que elas façam suas próprias descobertas e desenvolvam suas habilidades de tomada de decisão num ambiente seguro, acolhedor e rico em possibilidades.
@@ -119,7 +119,7 @@ audiores_8E37C908_EF9A_9F32_41A6_338950F933B0.mp3Url = media/audio_8FFA75AC_EF9B
 ### Image
 imlevel_0AAF95C0_110D_2B7A_419E_BCCA725233F8.url = media/panorama_012674BD_111C_E905_41A5_C1080A2E91A3_HS_vdhak0gd_pt.png
 imlevel_CB7A7CB5_ED8E_9552_41E5_237F02CEAF5A.url = media/panorama_0B20EF45_2A83_CEEA_41C1_2D76CB82DC6D_HS_3m2i04is_pt.png
-imlevel_4DA0D688_5FFF_89E0_41A6_5244353AEB46.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_l0ji3mna_pt.png
+imlevel_74D8A659_6424_F8FE_41D1_861102345A84.url = media/panorama_0BA17AF8_2A85_B799_41AC_E2234EF6B2D6_HS_l0ji3mna_pt.png
 imlevel_CD600639_ED8E_B552_41D2_2B6FC29519CB.url = media/panorama_0BA41EDF_2A85_CF96_41B6_328306033DC4_HS_ihvidvcl_pt.png
 imlevel_FE98FCFD_EF17_4943_41D0_92DD777F1409.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_16k35jda_pt.png
 imlevel_FE869D42_EF17_4B41_41E0_700E73D5A538.url = media/panorama_0BA8C568_2A82_F2BA_41B3_376420271EC4_HS_bo7bh4dh_pt.png
